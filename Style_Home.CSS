@@ -1,0 +1,53 @@
+body {
+    background-color: #CCCCCC;
+}
+
+#barberia {
+    width: 100%;
+    border: 5px solid black;
+    padding: 20px;
+}
+.titulo1{
+padding-left: 30px;
+text-align: center;
+}
+.titulo-centrado{
+    text-align: center;
+
+}
+p{
+    text-align: center;
+
+}
+#mision{
+    font-size: 20px;
+}
+
+
+.items{
+    font-size: 20px;
+    font-style: italic;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right:15% ;
+}
+em strong{
+    color: red;
+} 
+.contenido{
+background-color:beige;
+padding: 20px;
+}
+.diferenciales{
+    background-color: antiquewhite;
+    padding: 20px;
+}
+.barbero{
+    width: 50%
+}
+form{
+    padding: 10%;
+}
